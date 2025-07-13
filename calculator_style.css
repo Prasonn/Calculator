@@ -1,0 +1,157 @@
+#Parent-item1 {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 630px;
+    background-color: black;
+    top: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+#cal_btn0{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 350px;
+    left: 10px;
+    
+}
+#cal_btn1{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 308px;
+    left: 10px;
+}
+#cal_btn2{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 264px;
+    left: 10px;
+
+}
+#cal_btn3{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 221px;
+    left: 10px;
+}
+#cal_btn4{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 178px;
+    left: 10px;
+}
+#cal_btn5{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 178px;
+    left: 80px;
+}
+
+#cal_btn6{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 308px;
+    left: 80px;
+}
+#cal_btn7{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 264px;
+    left: 80px;
+}
+#cal_btn8{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 178px;
+    left: 80px;
+}
+#cal_btn9{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 221px;
+    left: 80px;
+}
+#cal_btn10{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 350px;
+    left: 80px;
+}
+#cal_btn11{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 350px;
+    left: 146px;
+}
+#cal_btn12{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 308px;
+    left: 146px;
+}
+#cal_btn13{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 264px;
+    left: 146px;
+}
+#cal_btn14{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 221px;
+    left: 146px;
+}
+#cal_btn15{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 177px;
+    left: 146px;
+}
+#cal_btn16{
+    background-color: green;
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 177px;
+    left: 146px;
+}
+#Input_digit{
+    width: 53px;
+    height: 32px;
+    position: absolute;
+    top: 146px;
+    left: 10px;
+}
+
